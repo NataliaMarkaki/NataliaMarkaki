@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Natalia Markaki, Senior Product Engineer, Frontend">
+  <rect width="1200" height="300" fill="#37515f"/>
+
+  <!-- right-side colour spectrum -->
+  <g>
+    <rect x="960"  y="0" width="60" height="300" fill="#0d5d56"/>
+    <rect x="1020" y="0" width="60" height="300" fill="#9bc1bc"/>
+    <rect x="1080" y="0" width="60" height="300" fill="#f4d35e"/>
+    <rect x="1140" y="0" width="60" height="300" fill="#daa49a"/>
+  </g>
+
+  <!-- thin accent rule under the name -->
+  <rect x="70" y="150" width="72" height="4" fill="#f4d35e"/>
+
+  <g font-family="Helvetica, Arial, sans-serif">
+    <text x="70" y="72" fill="#9bc1bc" font-size="17" letter-spacing="4">HERAKLION · CRETE · UK &amp; EU REMOTE</text>
+    <text x="68" y="128" fill="#ffffff" font-size="58" font-weight="600" letter-spacing="1">Natalia Markaki</text>
+    <text x="70" y="192" fill="#f4d35e" font-size="26" font-weight="500">Senior Product Engineer — Frontend</text>
+    <text x="70" y="236" fill="#cdd8dd" font-size="18">9+ years building large-scale, customer-facing web apps —</text>
+    <text x="70" y="262" fill="#cdd8dd" font-size="18">React &amp; Next.js · design systems · accessibility · performance</text>
+  </g>
+</svg>
