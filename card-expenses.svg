@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 172" width="560" height="172" role="img" aria-label="family-expense-tracker — shared budgeting tool, TypeScript">
+  <rect x="2" y="2" width="556" height="168" rx="12" fill="#daa49a"/>
+  <rect x="2" y="9" width="556" height="161" rx="12" fill="#ffffff"/>
+
+  <!-- wallet icon -->
+  <g>
+    <rect x="23" y="37" width="21" height="16" rx="3" fill="#c07a68"/>
+    <circle cx="40" cy="45" r="2.4" fill="#ffffff"/>
+  </g>
+
+  <g font-family="Helvetica, Arial, sans-serif">
+    <text x="54" y="52" fill="#37515f" font-size="21" font-weight="600">family-expense-tracker</text>
+    <text x="24" y="90"  fill="#6b7178" font-size="15">Shared budgeting tool to track, categorise</text>
+    <text x="24" y="112" fill="#6b7178" font-size="15">and split household spending.</text>
+    <circle cx="28" cy="145" r="4" fill="#c07a68"/>
+    <text x="38" y="150" fill="#c07a68" font-size="14" font-weight="600">TypeScript</text>
+  </g>
+</svg>
