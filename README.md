@@ -10,25 +10,6 @@
 
 <br />
 
-<p align="center"><b>PINNED WORK</b></p>
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/NataliaMarkaki/notes-with-auth">
-        <img src="./card-notes.svg" alt="notes-with-auth" width="100%" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/NataliaMarkaki/family-expense-tracker">
-        <img src="./card-expenses.svg" alt="family-expense-tracker" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br />
-
 <p align="center">
   <a href="https://linkedin.com/in/georgia-natalia-markaki">
     <img src="https://img.shields.io/badge/LinkedIn-37515F?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
